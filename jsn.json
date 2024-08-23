@@ -26,16 +26,18 @@
 
 {"key":"csp_Bttoo","name":"🐞两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key": "豪华资源", "name": "豪华资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/at/json","searchable": 1, "filterable": 1,"playurl": "json:https://hhjiexi.com/play/?url=", "categories": [ "大陆综艺","中国动漫","短剧", "内地剧","喜剧片"] },
+//https://fszy2.com/
+{"key": "飞速资源", "name": "🎦飞速资源", "type": 1, "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/?ac=list","searchable": 1, "filterable": 1,"playurl": "json:https://www.feisuplayer.com/m3u8/?url=", "categories": [ "喜剧片","动作片","大陆剧", "国产动漫","科幻片",  "动漫电影", "欧美剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"] },
 
-
-{"key": "华为吧资源", "name": "🎦华为吧资源", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/?ac=list","searchable": 1, "filterable": 1,"playurl": "json:https://player.hw8.lol/player?url=", "categories": [ "喜剧片","动作片","大陆剧", "国产动漫","科幻片",  "动漫电影", "欧美剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"] },
-
-{"key": "天空资源", "name": "🎦天空资源", "type": 1, "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list","searchable": 1, "filterable": 1,"playurl": "json:https://jx.huishij.com/yun/?url=", "categories": [ "喜剧片","动作片","大陆剧", "国产动漫","科幻片",  "动漫电影", "欧美剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"] },
+{"key": "华为吧资源", "name": "🎦华为吧资源", "type": 1, "api": "https://hw8.lol/api.php/provide/vod/?ac=list","searchable": 1, "filterable": 1,"playurl": "json:https://player.hw8.lol/player?url=", "categories": [ "国产剧", "国产动漫", "国产综艺", "短剧"] },
+//https://tkzy1.com/
+{"key": "天空资源", "name": "🎦天空资源", "type": 1, "api": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable": 1, "filterable": 1,"playurl": "json:https://jx.huishij.com/yun/?url=", "categories": [ "喜剧片","动作片","大陆剧", "国产动漫","科幻片",  "动漫电影", "欧美剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"] },
 
 {"key": "魔都资源", "name": "🎦魔都资源", "type": 1, "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable": 1, "filterable": 1,"playurl": "json:https://jiexi.modujx01.com/?url=", "categories": [ "喜剧片","动作片","大陆剧", "国产动漫","科幻片",  "动漫电影", "欧美剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"] },
 
 {"key":"暴風","name":"暴風┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable": 1,"filterable": 1,"playurl": "json:https://vip.vipuuvip.com/?url=", "categories": [ "喜剧片","动作片","大陆剧", "国产动漫","科幻片",  "动漫电影", "欧美剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"] },
+
+{"key": "豪华资源", "name": "豪华资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1, "filterable": 1,"playurl": "json:https://hhjiexi.com/play/?url=", "categories": [ "大陆综艺","中国动漫","短剧", "内地剧","喜剧片"] },
 
 //{"key": "csp_xml_牛牛资源", "name": "🎦牛牛资源┃2K", "type": 1, "api": "https://niuniuzy8.com/api.php/provide/vod","searchable": 1,"filterable": 1,"playurl": "json:https://jiexi.niuniuzy.org/m3u8/?url=", "categories": [ "喜剧片","动作片","大陆剧", "国产动漫","科幻片",  "动漫电影", "欧美剧","港澳剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"] },
 
